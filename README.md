@@ -3,7 +3,8 @@
 ## Computación en la nube (Cloud Computing Services)
 
 ```
-La computación en la nube es la distribución de recursos de TI bajo demanda a través de Internet mediante un esquema de pago por uso.
+La computación en la nube es la distribución de recursos de TI
+bajo demanda a través de Internet mediante un esquema de pago por uso.
 ```
 ## Modelos de ejecución
 
